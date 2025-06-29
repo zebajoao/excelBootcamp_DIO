@@ -4,8 +4,10 @@
 
 * [Simulador de Investimentos em FIIs](#desafio-pratico-1)
 
-## [Simulador de Investimentos em FIIs](https://github.com/zebajoao/excelBootcamp_DIO/blob/main/simuladorInvestimentosFII_desafioPratico1.xlsx)
+## Simulador de Investimentos em FIIs
 Esse projeto tem como objetivo principal aplicar os conceitos de ***Excel*** no desenvolvimento de uma ferramenta prática de **simulação de investimentos em fundos imobiliários**, construindo uma planilha que ajude o usuário a realizar simulações e auxilie-o a tomar **decisões mais informadas** sobre seus investimentos. A solução proposta visa **automatizar cálculos**, proporcionando ao usuário uma **visão clara** de seu potencial retorno.
+
+Acesse-o clicando [aqui](https://github.com/zebajoao/excelBootcamp_DIO/blob/main/simuladorInvestimentosFII_desafioPratico1.xlsx).
 
 ### Agradecimentos
 
